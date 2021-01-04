@@ -45,7 +45,7 @@
     "cross-env": "^7.0.2",
     "electron": "^11.0.4",
     "electron-builder": "^22.9.1",
-    "eslint": "^7.15.0"
+    "eslint": "^7.17.0"
   },
   "repository": {
     "type": "git",
